@@ -1,16 +1,46 @@
-## Hi there 👋
+## Salut 👋
+
+Je suis **développeur Full-Stack et DevOps**, passionné par la **création d'applications web performantes** et l'**optimisation des infrastructures**.  
+J'aime travailler avec des environnements **Linux**, automatiser les processus et explorer les **technologies open-source** pour concevoir des solutions robustes et innovantes.
+
+Je contribue activement à la création de **stacks web modernes**, à la conception d'**APIs robustes**, et à l'automatisation des **déploiements et infrastructures**.
+
+---
+
+### 💼 Mon expertise
+
+- **Développement Full-Stack** : création d'applications web complètes  
+- **DevOps** : pipelines CI/CD, déploiements automatisés, infrastructure as code
+
+---
+
+### 🛠️ Technologies & Outils
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 <!--
-**Sylvano96/Sylvano96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📊 Statistiques GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Sylvano96&show_icons=true&theme=radical)
+
 -->
+
+### 📫 Contact
+
+📧 Email : **eliasvano78@gmail.com**  
+🔗 LinkedIn : [Sylvano Elias](https://linkedin.com/in/eliassylvano)  
+<!-- 🌐 Portfolio : (bientôt disponible 😄) -->
+
