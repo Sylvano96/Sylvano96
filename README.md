@@ -10,7 +10,7 @@ Je contribue activement à la création de **stacks web modernes**, à la concep
 ### 💼 Mon expertise
 
 - **Développement Full-Stack** : création d'applications web complètes  
-- **DevOps** : pipelines CI/CD, déploiements automatisés, infrastructure as code (IAS)
+- **DevOps** : pipelines CI/CD, déploiements automatisés, infrastructure as code (IAC)
 
 ---
 
