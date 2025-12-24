@@ -46,5 +46,5 @@ Je contribue activement à la création de **stacks web modernes**, à la concep
 
 📧 Email : **eliasvano78@gmail.com**  
 🔗 LinkedIn : [Sylvano Elias](https://linkedin.com/in/eliassylvano)  
-🌐 Portfolio : https://elias-sylvano96.netlify.app
+🌐 Portfolio : https://eliassylvano-portfolio.netlify.app
 
