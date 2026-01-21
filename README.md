@@ -7,13 +7,6 @@ Je contribue activement à la création de **stacks web modernes**, à la concep
 
 ---
 
-### 💼 Mon expertise
-
-- **Développement Full-Stack** : création d'applications web complètes  
-- **DevOps** : pipelines CI/CD, déploiements automatisés, infrastructure as code (IAC)
-
----
-
 ### 🛠️ Technologies & Outils
 
 <p align="left">
@@ -33,10 +26,7 @@ Je contribue activement à la création de **stacks web modernes**, à la concep
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
 </p>
 
-<!--### 📊 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Sylvano96&show_icons=true&theme=radical)-->
-
+---
 
 ### 📫 Contact
 
