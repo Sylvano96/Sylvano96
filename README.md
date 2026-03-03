@@ -3,8 +3,6 @@
 Je suis **développeur Full-Stack et DevOps**, passionné par la **création d'applications web performantes** et l'**optimisation des infrastructures**.  
 J'aime travailler avec des environnements **Linux**, automatiser les processus et explorer les **technologies open-source** pour concevoir des solutions robustes et innovantes.
 
-Je contribue activement à la création de **stacks web modernes**, à la conception d'**APIs robustes**, et à l'automatisation des **déploiements et infrastructures**.
-
 ---
 
 ### 🛠️ Technologies & Outils
