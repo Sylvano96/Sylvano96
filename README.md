@@ -31,7 +31,7 @@ Passionate about modern technologies, I am a **Full Stack Developer** who builds
 ## 🚀 Featured Projects
 
 ### 📦  Transport Solver (Solve)
-Web-based system for solving transportation problems in operations research using optimization algorithms (MODI, Least Cost, etc.)  
+Web app for solving transportation optimization problems (MODI, Least Cost) 
 → *React.js + Flask*
 
 ### 🧠 Note-AI
@@ -47,7 +47,7 @@ Secure personal finance management system
 → *Next.js + NestJS + PostgreSQL*
 
 ### 🌐 SpeedService
-Service marketplace with real-time chat  
+Service marketplace with real-time chat 
 → *Laravel + MySQL*
 
 ---
