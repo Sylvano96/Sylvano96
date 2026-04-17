@@ -30,24 +30,24 @@ Passionate about modern technologies, I am a **Full Stack Developer** who builds
 
 ## 🚀 Featured Projects
 
-### 📦  Transport Solver (Solve)
-Web app for solving transportation optimization problems (MODI, Least Cost) 
+### 📦 Transport Solver
+Web app for solving transportation optimization problems (MODI, Least Cost)  
 → *React.js + Flask*
 
 ### 🧠 Note-AI
-Smart note-taking mobile app with AI assistant  
+AI-powered mobile app for smart note-taking  
 → *Flutter + Flask*
 
 ### 📰 EvoBlog
-Modern blog platform with admin & author system  
+Blog platform with admin and author management  
 → *Angular + Spring Boot*
 
 ### 💰 ExpenseTracker
-Secure personal finance management system  
+Secure app for tracking and managing daily expenses  
 → *Next.js + NestJS + PostgreSQL*
 
 ### 🌐 SpeedService
-Service marketplace with real-time chat 
+Service marketplace with real-time communication  
 → *Laravel + MySQL*
 
 ---
