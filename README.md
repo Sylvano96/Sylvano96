@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architect;DevOps+Enthusiast;AI+Builder&center=true&width=500&height=50">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat" />
 </p>
 
@@ -101,19 +97,6 @@ Service marketplace with real-time chat
 ✔ Real-world project experience  
 ✔ Problem-solving approach  
 ✔ Autonomous & team player  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
 
 ---
 
