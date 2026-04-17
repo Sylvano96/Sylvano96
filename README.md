@@ -1,13 +1,12 @@
-<h1 align="center">✨ Elias Sylvano</h1>
-
-<p align="center">
-  <i>I turn ideas into scalable, secure and intelligent digital systems.</i>
-</p>
+<h1 align="center">Hi, I'm Elias Sylvano</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architect;DevOps+Enthusiast;AI+Builder&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <i>I turn ideas into scalable, secure and intelligent digital systems.</i>
+</p>
 
 ---
 
@@ -29,7 +28,7 @@ Passionate about modern technologies, I am a **Full Stack Developer** who builds
 
 ---
 
-## 🚀 Projects That Define Me
+## 🚀 Some projects That Define Me
 
 ### 🧠 Note-AI
 Smart note-taking mobile app with AI assistant  
