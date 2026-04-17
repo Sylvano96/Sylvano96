@@ -125,6 +125,10 @@ Service marketplace with real-time chat
   📍 Madagascar 🇲🇬  
 </p>
 
+<p align="center">
+  <i>" Write, build and deploy your future. "</i>
+</p>
+
 ---
 
 <p align="center">
