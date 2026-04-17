@@ -28,7 +28,11 @@ Passionate about modern technologies, I am a **Full Stack Developer** who builds
 
 ---
 
-## 🚀 Some projects That Define Me
+## 🚀 Featured Projects
+
+### 📦  Transport Solver (Solve)
+Web-based system for solving transportation problems in operations research using optimization algorithms (MODI, Least Cost, etc.)  
+→ *React.js + Flask*
 
 ### 🧠 Note-AI
 Smart note-taking mobile app with AI assistant  
