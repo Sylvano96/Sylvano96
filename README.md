@@ -55,7 +55,7 @@ Service marketplace with real-time communication
 ## 🛠️ Tech Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,angular,nextjs,nestjs,laravel,spring,flutter,postgres,mysql,docker,jenkins,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,angular,nextjs,nestjs,laravel,spring,flutter,postgres,mysql,docker,jenkins,git,terraform" />
 </p>
 
 ---
