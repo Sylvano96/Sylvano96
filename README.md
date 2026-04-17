@@ -1,10 +1,6 @@
 <h1 align="center">✨ Elias Sylvano</h1>
 
 <p align="center">
-  <b>Full Stack Developer • Backend Engineer • AI & Geospatial Enthusiast</b>
-</p>
-
-<p align="center">
   <i>I turn ideas into scalable, secure and intelligent digital systems.</i>
 </p>
 
