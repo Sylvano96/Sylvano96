@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Elias Sylvano</h1>
+<h1 align="center">✨ Elias Sylvano</h1>
 
 <p align="center">
   <b>Full Stack Developer • Backend Engineer • AI & Geospatial Enthusiast</b>
@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architect;DevOps+Enthusiast;AI+Builder&center=true&width=500&height=50">
 </p>
+
 
 ---
 
@@ -97,6 +98,19 @@ Service marketplace with real-time chat
 ✔ Real-world project experience  
 ✔ Problem-solving approach  
 ✔ Autonomous & team player  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sylvano96&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylvano96&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sylvano96&theme=tokyo-night"/>
+</p>
 
 ---
 
