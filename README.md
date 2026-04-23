@@ -74,7 +74,7 @@ Service marketplace with real-time communication
 - SaaS platform development (multi-tenant)
 
 ### 📱 Mobile Development
-- Cross-platform apps with **Flutter**
+- Cross-platform apps with **React Native / Flutter**
 - Integration with backend APIs & AI services
 
 ### ⚙️ DevOps & Deployment
