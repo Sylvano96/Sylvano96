@@ -84,7 +84,7 @@ Service marketplace with real-time communication
 - Infrastructure as Code (Terraform)
 
 ### 🤖 AI Integration
-- Chatbot integration (Gemini / OpenAI)  
+- Chatbot integration 
 - Intelligent automation systems  
 - AI-powered features in web/mobile apps  
 
