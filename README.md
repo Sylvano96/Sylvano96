@@ -21,13 +21,6 @@ Passionate about modern technologies, I am a **Full Stack Developer** who builds
 
 ---
 
-## 🎓 Education
-
-- 🎓 Bachelor's in Internet & Intranet Application Development  
-- 🎯 Master's in Information Systems, Geomatics & Decision (ongoing)
-
----
-
 ## 🚀 Featured Projects
 
 ### 📦 Transport Solver
@@ -57,46 +50,6 @@ Service marketplace with real-time communication
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,angular,nextjs,nestjs,laravel,spring,flutter,firebase,redis,postgres,mysql,docker,jenkins,git,terraform" />
 </p>
-
----
-
-## 🚀 Services I Offer
-
-### 🧩 Backend & Architecture
-- Design of **scalable REST APIs**
-- **Microservices architecture** (NestJS, Spring Boot, flask)
-- Secure authentication systems (JWT, OAuth)
-- Performance optimization & database design
-
-### 🌐 Full Stack Development
-- Modern web apps (**React / Angular / Next.js**)
-- API integration & real-time features (Socket.io)
-- SaaS platform development (multi-tenant)
-
-### 📱 Mobile Development
-- Cross-platform apps with **React Native / Flutter**
-- Integration with backend APIs & AI services
-
-### ⚙️ DevOps & Deployment
-- Docker containerization 🐳  
-- CI/CD pipelines (Jenkins)  
-- Cloud deployment & monitoring  
-- Infrastructure as Code (Terraform)
-
-### 🤖 AI Integration
-- Chatbot integration 
-- Intelligent automation systems  
-- AI-powered features in web/mobile apps  
-
----
-
-## 🧠 What I Bring
-
-✔ Strong backend & system design  
-✔ Clean architecture mindset  
-✔ Real-world project experience  
-✔ Problem-solving approach  
-✔ Autonomous & team player  
 
 ---
 
