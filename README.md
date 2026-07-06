@@ -56,11 +56,6 @@ Service marketplace with real-time communication
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sylvano96&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylvano96&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sylvano96&theme=tokyo-night"/>
 </p>
 
