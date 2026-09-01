@@ -53,14 +53,6 @@ Service marketplace with real-time communication
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sylvano96&theme=tokyo-night"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
