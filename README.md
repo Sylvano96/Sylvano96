@@ -1,72 +1,25 @@
-<h1 align="center">Hi, I'm Elias Sylvano</h1>
+<h1 align="center">Hey there, I'm Elias Sylvano 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architect;DevOps+Enthusiast;AI+Builder&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <i>I turn ideas into scalable, secure and intelligent digital systems.</i>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;I+like+crafting+useful+tools&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 👨‍💻 Who Am I ?
+I'm a **Full Stack Developer** from Madagascar 🇲🇬 who loves turning ideas into real products.
 
-Passionate about modern technologies, I am a **Full Stack Developer** who builds **robust, scalable and intelligent systems**.
+Over the years, I've grown into building complete applications, from the backend to the interface, all the way to production. 🚀
 
-💡 I focus on:
-- Clean architecture & maintainable code  
-- Performance & scalability  
-- Real-world problem solving  
+**I like crafting useful tools**: simple to use and reliable underneath. 🔧
 
----
-
-## 🚀 Featured Projects
-
-### 📦 Transport Solver
-Web app for solving transportation optimization problems (MODI, Least Cost)  
-→ *React.js + Flask*
-
-### 🧠 Note-AI
-AI-powered mobile app for smart note-taking  
-→ *Flutter + Flask*
-
-### 📰 EvoBlog
-Blog platform with admin and author management  
-→ *Angular + Spring Boot*
-
-### 💰 ExpenseTracker
-Secure app for tracking and managing daily expenses  
-→ *Next.js + NestJS + PostgreSQL*
-
-### 🌐 SpeedService
-Service marketplace with real-time communication  
-→ *Laravel + MySQL*
-
----
-
-## 🛠️ Tech Ecosystem
+Always learning, always building, and always happy to connect!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,angular,nextjs,nestjs,laravel,spring,flutter,firebase,redis,postgres,mysql,docker,jenkins,git,terraform" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,angular,nextjs,nestjs,laravel,spring,flutter,postgres,mysql,docker,git" />
 </p>
-
----
-
-## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:eliasvano78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail">
   </a>
-</p>
-
-<p align="center">
-  📍 Madagascar 🇲🇬  
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
