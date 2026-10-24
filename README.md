@@ -27,6 +27,6 @@ Always learning, always building, and always happy to connect!
 
 <p align="center">
   <a href="mailto:eliasvano78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
